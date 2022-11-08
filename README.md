@@ -6,7 +6,7 @@ Projeto desenvolvido com ajuda dos instrutores da Alura
 Você pode fazer um teste do projeto no estado atual no link abaixo:
 <br>
 <br>
-<a href="https://robotron-2000-kappa-mocha.vercel.app">Robotron 2000</a>
+<a href="https://robotron-2000-kappa-mocha.vercel.app">Robotron 2000 - TESTAR PÁGINA</a>
 <br>
 <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
